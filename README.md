@@ -11,5 +11,5 @@
 ## Best Practices
 - Try not to work on the same file at the same time someone else is doing so to prevent merge conflicts. Merge conflicts are not fun.
 - If you must work on the same file at the same time, please utilize Live Share. Live Share can be doenloaded through the Extensions tab in VS Code. For more information on Liver Share, please visit: `https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack`.
-- DO NOT merge your own code.
+- **DO NOT** merge your own code.
 - Whenever any pull request is merged with master, everyone should pull at the same time to their local local directories to prevent any future merge conflicts. 
